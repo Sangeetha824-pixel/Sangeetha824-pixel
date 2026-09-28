@@ -30,11 +30,11 @@
 
 ### 👩‍💻 Curious by nature
 
-I am a final-year **Computer Science and Design** student who enjoys learning by building. I like taking an idea, understanding the problem behind it, and figuring out how it can become a useful product.
+I am a final-year **Computer Science and Design** student who enjoys learning by building. I like taking an idea, understanding the problem behind it and figuring out how it can become a useful product.
 
-My interests sit at the intersection of **AI/ML, backend development, and practical full-stack applications**. I am especially excited by new AI tools, Generative AI, retrieval systems, and the possibilities they create beyond conventional development.
+My interests sit at the intersection of **AI/ML, backend development and practical full-stack applications**. I am especially excited by new AI tools, Generative AI, retrieval systems and the possibilities they create beyond conventional development.
 
-I have worked on projects involving document intelligence, approval workflows, and e-commerce. Each project has helped me become more comfortable experimenting, debugging, improving an idea, and learning technologies I had not used before.
+I have worked on projects involving document intelligence, approval workflows and e-commerce. Each project has helped me become more comfortable experimenting, debugging, improving an idea and learning technologies I had not used before.
 
 </td>
 <td width="50%">
@@ -43,7 +43,7 @@ I have worked on projects involving document intelligence, approval workflows, a
 
 ```text
 Curious            Ask questions and understand the problem
-Experimental       Try, test, debug, and improve
+Experimental       Try, test, debug and improve
 Practical          Build solutions people can actually use
 Collaborative      Learn from others and share what I discover
 ```
@@ -58,10 +58,10 @@ Collaborative      Learn from others and share what I discover
 
 | Area | Tools I use |
 |:---|:---|
-| **Languages** | Python · JavaScript · SQL |
+| **Languages** | Python · SQL |
 | **AI & ML** | PyTorch · Hugging Face · scikit-learn · RAG · Prompt Engineering · Computer Vision |
 | **Backend** | FastAPI · Flask · REST APIs · JWT Authentication |
-| **Frontend** | React · Vite · HTML · CSS |
+| **Frontend** | React · Vite · HTML · CSS · JavaScript |
 | **Data** | MySQL · MongoDB · TF-IDF · Feature Extraction |
 | **Workflow** | Git · GitHub · Postman · Unit Testing · End-to-End Debugging |
 | **Cloud** | Oracle Cloud Infrastructure Certified |
@@ -92,7 +92,7 @@ An AI-powered PDF Q&A chatbot that extracts and chunks documents, retrieves rele
 ### 🔄 FlowMate
 **Make approvals move.**
 
-A role-based workflow management system for leave, expense, and fund requests, with structured status tracking across the complete approval lifecycle.
+A role-based workflow management system for leave, expense and fund requests, with structured status tracking across the complete approval lifecycle.
 
 `React` `FastAPI` `MySQL` `REST API`
 
@@ -107,7 +107,7 @@ A role-based workflow management system for leave, expense, and fund requests, w
 ### 🛍️ WeaveCart
 **A complete shopping experience from API to interface.**
 
-A full-stack e-commerce platform with product, cart, order, and user management, backed by secure JWT authentication and MongoDB.
+A full-stack e-commerce platform with product, cart, order and user management, backed by secure JWT authentication and MongoDB.
 
 `React` `FastAPI` `MongoDB` `JWT`
 
@@ -131,9 +131,9 @@ OCI certified · 250+ DSA problems solved · CodeChef Silver badge · 10+ reposi
 
 <div align="center">
 
-I am looking for opportunities where I can contribute to real projects, experiment with emerging AI tools, and learn from a team that values curiosity and thoughtful problem-solving.
+I am looking for opportunities where I can contribute to real projects, experiment with emerging AI tools and learn from a team that values curiosity and thoughtful problem-solving.
 
-I bring a strong willingness to learn, an open mind, and the patience to work through unfamiliar challenges. Whether the task involves exploring a new technology, building an API, improving a workflow, or testing an early idea, I enjoy being part of the process.
+I bring a strong willingness to learn, an open mind and the patience to work through unfamiliar challenges. Whether the task involves exploring a new technology, building an API, improving a workflow, or testing an early idea, I enjoy being part of the process.
 
 </div>
 
