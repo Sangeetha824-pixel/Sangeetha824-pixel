@@ -12,7 +12,7 @@
 <i>Building useful AI-powered products and turning complex workflows into simple experiences.</i>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Sangeetha824-pixel&style=for-the-badge&color=312e81" alt="Profile views">
+<img src="https://img.shields.io/badge/Profile-Sangeetha824--pixel-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Sangeetha GitHub profile">
 
 </div>
 
