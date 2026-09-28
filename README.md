@@ -32,15 +32,14 @@ Open to        Collaborations, internships, and interesting ideas
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frontend and backend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
@@ -67,7 +66,7 @@ An AI-powered PDF Q&A chatbot using TF-IDF, cosine similarity, and Claude API in
 
 `Flask` `Python` `scikit-learn` `Claude API`
 
-<a href="https://github.com/Sangeetha824-pixel">View project →</a>
+<a href="https://github.com/Sangeetha824-pixel/DocuMind.git">View project →</a>
 
 </td>
 <td width="50%">
@@ -77,7 +76,7 @@ A workflow management system for leave, expense, and fund-request approvals with
 
 `React` `FastAPI` `MySQL` `REST API`
 
-<a href="https://github.com/Sangeetha824-pixel">View project →</a>
+<a href="https://github.com/Sangeetha824-pixel/workflow-management-system.git">View project →</a>
 
 </td>
 </tr>
@@ -89,7 +88,7 @@ A full-stack e-commerce platform with product, cart, order, user management, and
 
 `React` `FastAPI` `MongoDB` `JWT`
 
-<a href="https://github.com/Sangeetha824-pixel">View project →</a>
+<a href="https://github.com/Sangeetha824-pixel/WEAVECART.git">View project →</a>
 
 </td>
 <td width="50%">
