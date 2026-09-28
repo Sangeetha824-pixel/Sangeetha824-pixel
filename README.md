@@ -109,7 +109,7 @@ A role-based workflow management system for leave, expense and fund requests, wi
 
 A full-stack e-commerce platform with product, cart, order and user management, backed by secure JWT authentication and MongoDB.
 
-`React` `FastAPI` `MongoDB` `JWT`
+`React` `FastAPI` `PostgreSQL` `JWT`
 
 <br>
 <a href="https://github.com/Sangeetha824-pixel/WEAVECART"><b>Explore WeaveCart →</b></a>
