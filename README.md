@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+useful+AI-powered+products;Turning+complex+workflows+into+simple+experiences;Python+backend+%7C+RAG+%7C+Full-stack+development" alt="Typing introduction">
 
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=Sangeetha824-pixel&style=for-the-badge&color=312e81)
+<img src="https://komarev.com/ghpvc/?username=Sangeetha824-pixel&style=for-the-badge&color=312e81" alt="Profile views">
 
 </div>
 
@@ -22,28 +22,30 @@
 
 ---
 
-## ⚡ The quick version
+## ⚡ A little about me
 
 <table>
 <tr>
 <td width="50%">
 
-### 👩‍💻 Who I am
+### 👩‍💻 Curious by nature
 
-Final-year **Computer Science and Design** student at Erode Sengunthar Engineering College, graduating in 2027 with a **9.10 CGPA**.
+I am a final-year **Computer Science and Design** student who enjoys learning by building. I like taking an idea, understanding the problem behind it, and figuring out how it can become a useful product.
 
-I enjoy working across the stack, from data preprocessing and model training to REST APIs and responsive interfaces.
+My interests sit at the intersection of **AI/ML, backend development, and practical full-stack applications**. I am especially excited by new AI tools, Generative AI, retrieval systems, and the possibilities they create beyond conventional development.
+
+I have worked on projects involving document intelligence, approval workflows, and e-commerce. Each project has helped me become more comfortable experimenting, debugging, improving an idea, and learning technologies I had not used before.
 
 </td>
 <td width="50%">
 
-### 🧭 What I am exploring
+### 🧭 How I work
 
 ```text
-AI/ML              ████████████████░░  80%
-Backend systems    ███████████████░░░  75%
-Generative AI      ██████████████░░░░  70%
-Product design     ████████████░░░░░░  60%
+Curious            Ask questions and understand the problem
+Experimental       Try, test, debug, and improve
+Practical          Build solutions people can actually use
+Collaborative      Learn from others and share what I discover
 ```
 
 </td>
@@ -125,13 +127,23 @@ OCI certified · 250+ DSA problems solved · CodeChef Silver badge · 10+ reposi
 </tr>
 </table>
 
+## 🌱 What I am looking for
+
+<div align="center">
+
+I am looking for opportunities where I can contribute to real projects, experiment with emerging AI tools, and learn from a team that values curiosity and thoughtful problem-solving.
+
+I bring a strong willingness to learn, an open mind, and the patience to work through unfamiliar challenges. Whether the task involves exploring a new technology, building an API, improving a workflow, or testing an early idea, I enjoy being part of the process.
+
+</div>
+
 ## 📈 GitHub signal
 
 <div align="center">
 
-![CGPA](https://img.shields.io/badge/CGPA-9.10-7c3aed?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-250%2B_solved-06b6d4?style=for-the-badge)
-![OCI](https://img.shields.io/badge/OCI-Certified-f97316?style=for-the-badge)
+<img src="https://img.shields.io/badge/CGPA-9.10-7c3aed?style=for-the-badge" alt="CGPA 9.10">
+<img src="https://img.shields.io/badge/DSA-250%2B_solved-06b6d4?style=for-the-badge" alt="250 plus DSA problems solved">
+<img src="https://img.shields.io/badge/OCI-Certified-f97316?style=for-the-badge" alt="OCI certified">
 
 <br><br>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sangeetha824-pixel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7c3aed&icon_color=06b6d4&text_color=64748b" alt="GitHub statistics">
