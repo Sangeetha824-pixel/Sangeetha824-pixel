@@ -59,12 +59,16 @@ Collaborative      Learn from others and share what I discover
 | Area | Tools I use |
 |:---|:---|
 | **Languages** | Python · SQL |
-| **AI & ML** | PyTorch · Hugging Face · scikit-learn · RAG · Prompt Engineering · Computer Vision |
+| **AI & ML** | PyTorch · Hugging Face · scikit-learn · NLP · Computer Vision |
 | **Backend** | FastAPI · Flask · REST APIs · JWT Authentication |
 | **Frontend** | React · Vite · HTML · CSS · JavaScript |
 | **Data** | MySQL · MongoDB · TF-IDF · Feature Extraction |
 | **Workflow** | Git · GitHub · Postman · Unit Testing · End-to-End Debugging |
 | **Cloud** | Oracle Cloud Infrastructure Certified |
+| **Generative AI** | LLMs · RAG · Prompt Engineering · AI Agents · LLM APIs · Semantic Search |
+| **AI-Assisted Development** | Cursor · OpenAI Codex · Google Antigravity · GitHub Copilot · AI Code Generation · Vibe Coding |
+| **AI Automation** | n8n · Flowise · AI Workflows |
+
 
 </div>
 
