@@ -1,126 +1,155 @@
 <div align="center">
 
-# Hey, I'm **Sangeetha** 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:312e81,100:06b6d4&text=SANGEETHA%20A&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20%7C%20BACKEND%20%7C%20FULL-STACK&descAlignY=63&descSize=18&animation=twinkling" width="100%" alt="Sangeetha A banner">
 
-### AI/ML Enthusiast · Python Backend Developer · Full-Stack Builder
+<a href="https://github.com/Sangeetha824-pixel"><img src="https://img.shields.io/badge/GitHub-Sangeetha824--pixel-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/sangeethaa0801/"><img src="https://img.shields.io/badge/LinkedIn-Sangeetha_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sangeethaanandh08@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<p>
-  I build practical AI and full-stack applications that turn complex workflows into simple experiences.
-</p>
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+useful+AI-powered+products;Turning+complex+workflows+into+simple+experiences;Python+backend+%7C+RAG+%7C+Full-stack+development" alt="Typing introduction">
 
-<a href="https://github.com/Sangeetha824-pixel"><img src="https://img.shields.io/badge/GitHub-Sangeetha824--pixel-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:sangeethaanandh08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=Sangeetha824-pixel&style=for-the-badge&color=312e81)
 
-![Profile views](https://komarev.com/ghpvc/?username=Sangeetha824-pixel&style=flat-square&color=7c3aed)
+</div>
+
+<div align="center">
+
+> **I don't just write code. I design solutions that make technology feel simple.**
 
 </div>
 
 ---
 
-## ✦ A little about me
-
-```text
-Currently      Final-year Computer Science and Design student
-Focus          AI/ML, Generative AI, Python backends, and REST APIs
-Experience     Artificial Intelligence Intern at Codec Technologies India
-Education      B.E. Computer Science and Design · CGPA 9.10
-Open to        Collaborations, internships, and interesting ideas
-```
-
-## 🧰 My toolkit
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend and backend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-### Data, AI, and tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI_Apps-412991?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-
----
-
-## 🚀 Featured work
+## ⚡ The quick version
 
 <table>
 <tr>
 <td width="50%">
 
-### 📄 DocuMind
-An AI-powered PDF Q&A chatbot using TF-IDF, cosine similarity, and Claude API integration.
+### 👩‍💻 Who I am
 
-`Flask` `Python` `scikit-learn` `Claude API`
+Final-year **Computer Science and Design** student at Erode Sengunthar Engineering College, graduating in 2027 with a **9.10 CGPA**.
 
-<a href="https://github.com/Sangeetha824-pixel/DocuMind.git">View project →</a>
-
-</td>
-<td width="50%">
-
-### 🔄 FlowMate
-A workflow management system for leave, expense, and fund-request approvals with role-based access.
-
-`React` `FastAPI` `MySQL` `REST API`
-
-<a href="https://github.com/Sangeetha824-pixel/workflow-management-system.git">View project →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛍️ WeaveCart
-A full-stack e-commerce platform with product, cart, order, user management, and JWT authentication.
-
-`React` `FastAPI` `MongoDB` `JWT`
-
-<a href="https://github.com/Sangeetha824-pixel/WEAVECART.git">View project →</a>
+I enjoy working across the stack, from data preprocessing and model training to REST APIs and responsive interfaces.
 
 </td>
 <td width="50%">
 
-### 🏆 Highlights
-OCI certified · 250+ DSA problems solved · CodeChef Silver badge · 10+ repositories
+### 🧭 What I am exploring
 
-<a href="https://github.com/Sangeetha824-pixel?tab=repositories">Explore repositories →</a>
+```text
+AI/ML              ████████████████░░  80%
+Backend systems    ███████████████░░░  75%
+Generative AI      ██████████████░░░░  70%
+Product design     ████████████░░░░░░  60%
+```
 
 </td>
 </tr>
 </table>
 
-## 📊 GitHub activity
+## 🧠 My playground
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sangeetha824-pixel&show_icons=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=6b7280" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha824-pixel&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed&text_color=6b7280" alt="Top languages">
+| Area | Tools I use |
+|:---|:---|
+| **Languages** | Python · JavaScript · SQL |
+| **AI & ML** | PyTorch · Hugging Face · scikit-learn · RAG · Prompt Engineering · Computer Vision |
+| **Backend** | FastAPI · Flask · REST APIs · JWT Authentication |
+| **Frontend** | React · Vite · HTML · CSS |
+| **Data** | MySQL · MongoDB · TF-IDF · Feature Extraction |
+| **Workflow** | Git · GitHub · Postman · Unit Testing · End-to-End Debugging |
+| **Cloud** | Oracle Cloud Infrastructure Certified |
 
 </div>
+
+---
+
+## 🚀 Built with purpose
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 DocuMind
+**Ask questions. Find context. Understand documents.**
+
+An AI-powered PDF Q&A chatbot that extracts and chunks documents, retrieves relevant passages with TF-IDF and cosine similarity, then generates grounded answers through the Claude API.
+
+`Flask` `Python` `scikit-learn` `Claude API`
+
+<br>
+<a href="https://github.com/Sangeetha824-pixel/DocuMind"><b>Explore DocuMind →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 FlowMate
+**Make approvals move.**
+
+A role-based workflow management system for leave, expense, and fund requests, with structured status tracking across the complete approval lifecycle.
+
+`React` `FastAPI` `MySQL` `REST API`
+
+<br>
+<a href="https://github.com/Sangeetha824-pixel/workflow-management-system"><b>Explore FlowMate →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ WeaveCart
+**A complete shopping experience from API to interface.**
+
+A full-stack e-commerce platform with product, cart, order, and user management, backed by secure JWT authentication and MongoDB.
+
+`React` `FastAPI` `MongoDB` `JWT`
+
+<br>
+<a href="https://github.com/Sangeetha824-pixel/WEAVECART"><b>Explore WeaveCart →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Proof of progress
+OCI certified · 250+ DSA problems solved · CodeChef Silver badge · 10+ repositories
+
+<br><br>
+<a href="https://github.com/Sangeetha824-pixel?tab=repositories"><b>See all repositories →</b></a>
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub signal
 
 <div align="center">
 
-### Thanks for stopping by — let's build something useful.
+![CGPA](https://img.shields.io/badge/CGPA-9.10-7c3aed?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-250%2B_solved-06b6d4?style=for-the-badge)
+![OCI](https://img.shields.io/badge/OCI-Certified-f97316?style=for-the-badge)
+
+<br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sangeetha824-pixel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7c3aed&icon_color=06b6d4&text_color=64748b" alt="GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha824-pixel&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed&text_color=64748b" alt="Top languages">
 
 </div>
 
-<!--
-  PERSONALIZE BEFORE PUBLISHING:
-  1. Replace Sangeetha with your preferred display name.
-  2. Update your portfolio, LinkedIn, email, and project links.
-  3. Replace the three featured projects with your real work.
-  4. Remove any technology badges you do not actively use.
--->
+---
+
+<div align="center">
+
+### ✨ Have an interesting problem?
+
+**Let's turn it into something useful.**
+
+<a href="mailto:sangeethaanandh08@gmail.com">Start a conversation →</a>
+
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,55:312e81,100:0f172a&section=footer" width="100%" alt="Footer banner">
+
+</div>
