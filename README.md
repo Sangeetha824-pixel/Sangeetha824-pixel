@@ -22,13 +22,13 @@
 
 ---
 
-## ⚡ A little about me
+##  A little about me
 
 <table>
 <tr>
 <td width="50%">
 
-### 👩‍💻 Curious by nature
+###  Curious by nature
 
 I am a final-year **Computer Science and Design** student who enjoys learning by building. I like taking an idea, understanding the problem behind it and figuring out how it can become a useful product.
 
@@ -39,7 +39,7 @@ I have worked on projects involving document intelligence, approval workflows an
 </td>
 <td width="50%">
 
-### 🧭 How I work
+###  How I work
 
 ```text
 Curious            Ask questions and understand the problem
@@ -52,7 +52,7 @@ Collaborative      Learn from others and share what I discover
 </tr>
 </table>
 
-## 🧠 My playground
+##  My playground
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Collaborative      Learn from others and share what I discover
 
 ---
 
-## 🚀 Built with purpose
+##  Built with purpose
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ OCI certified · 250+ DSA problems solved · CodeChef Silver badge · 10+ reposi
 </tr>
 </table>
 
-## 🌱 What I am looking for
+##  What I am looking for
 
 <div align="center">
 
@@ -155,7 +155,7 @@ I bring a strong willingness to learn, an open mind and the patience to work thr
 
 <div align="center">
 
-### ✨ Have an interesting problem?
+###  Have an interesting problem?
 
 **Let's turn it into something useful.**
 
