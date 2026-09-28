@@ -1,15 +1,13 @@
 <div align="center">
 
-<h1>✨ SANGEETHA A</h1>
-
-<p><b>AI/ML Enthusiast · Python Backend Developer · Full-Stack Builder</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:312e81,100:06b6d4&text=SANGEETHA%20A&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20%7C%20BACKEND%20%7C%20FULL-STACK&descAlignY=63&descSize=18&animation=twinkling" width="100%" alt="Sangeetha A banner">
 
 <a href="https://github.com/Sangeetha824-pixel"><img src="https://img.shields.io/badge/GitHub-Sangeetha824--pixel-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/sangeethaa0801/"><img src="https://img.shields.io/badge/LinkedIn-Sangeetha_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:sangeethaanandh08@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
-<i>Building useful AI-powered products and turning complex workflows into simple experiences.</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+useful+AI-powered+products;Turning+complex+workflows+into+simple+experiences;Python+backend+%7C+RAG+%7C+Full-stack+development" alt="Typing introduction">
 
 <br>
 <img src="https://img.shields.io/badge/Profile-Sangeetha824--pixel-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Sangeetha GitHub profile">
@@ -164,6 +162,6 @@ I bring a strong willingness to learn, an open mind, and the patience to work th
 <a href="mailto:sangeethaanandh08@gmail.com">Start a conversation →</a>
 
 <br><br>
-<p>Made with curiosity, experiments, and a lot of debugging.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,55:312e81,100:0f172a&section=footer" width="100%" alt="Footer banner">
 
 </div>
